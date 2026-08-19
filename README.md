@@ -7,3 +7,4 @@ hal yang harus di kerjakan setiap hari
 - makan
 - pull up 10x
 - berangkat sekola
+- main basket
