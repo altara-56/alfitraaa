@@ -9,3 +9,4 @@ hal yang harus di kerjakan setiap hari
 - berangkat sekola
 - main basket
 - belajar
+- minuum
