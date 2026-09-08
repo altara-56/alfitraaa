@@ -8,4 +8,4 @@ hal yang harus di kerjakan setiap hari
 - pull up 10x
 - berangkat sekola
 - main basket
-- belajar
+- belajar. 
